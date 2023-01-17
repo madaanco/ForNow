@@ -1,1 +1,10 @@
-m
+{
+    margin: 0;
+    padding: 0;
+}
+#header[
+    height: 100vh;
+    background-image: url(images/BigD.jpg);
+    background-position: center;
+    background-size: cover;
+]
