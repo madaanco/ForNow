@@ -3,28 +3,29 @@ body {
 	background-image: url("images/BigD.jpg");
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
 	height: 100vh;
+	padding-top: 100px;
 	background-color: black;
 	background-repeat: no-repeat;
 	background-position-x: center;
 	background-position-y: center;
-	background-size: 100%;
-	color: white;		
-	height: 100vh;
+	background-size: 90%;	
+/*	color: white;		
+	height: 100vh; */
 	}
 .div01 {
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
-	color: rgb(36, 101, 161);	
+	color: rgb(161, 36, 144);	
 	padding-top: 500px;	
 	padding-left: 50px;
 	}
 .div02 {
+	background-image: url("images/BigD.jpg");
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
 	height: 100vh;
+	padding-top: 100px;
 	background-color: black;
-	background-image: url("images/BigD.jpg");
 	background-repeat: no-repeat;
 	background-position-x: center;
 	background-position-y: center;
-	background-size: 100%;
-	color: rgb(13, 118, 136);		
+	background-size: 90%;
 	} 
